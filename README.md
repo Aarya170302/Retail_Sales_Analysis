@@ -41,16 +41,18 @@ retail-sales-analysis/
 ## 🚀 How to Run
 1. Clone this repo:
    git clone https://github.com/Aarya170302/retail-sales-analysis.git
+   
    cd retail-sales-analysis
    
-2. Import the dataset into MySQL (or use the provided CSV).
+3. Import the dataset into MySQL (or use the provided CSV).
 
-3. Run queries in retail_sales_analysis.ipynb (make sure to update MySQL connection settings).
+4. Run queries in retail_sales_analysis.ipynb (make sure to update MySQL connection settings).
 
-4. Explore results and visualizations.
+5. Explore results and visualizations.
 
 
 ## About
 This project was built as part of a Data Analytics learning portfolio.
 It combines SQL querying with Python analysis & visualization to demonstrate end-to-end data analytics skills.
+
 
